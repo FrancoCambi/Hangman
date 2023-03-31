@@ -1,2 +1,3 @@
-# Hangman
-Juego de ahorcado
+Hangman.
+
+26/3/2022
